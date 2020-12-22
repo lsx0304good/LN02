@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="simontest" uuid="4161bc69-26b4-41d7-81b3-a3e594543cde">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\PythonFiles\Python_WebSpider\数据处理与存储\SQLite数据库\simontest.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
